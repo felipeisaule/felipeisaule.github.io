@@ -1,21 +1,24 @@
 ---
 layout: single
 author_profile: true
+title: About me
 classes: wide
 ---
 
-I am a theoretical physicist interested in applying quantum many-body techniques to cold atom and nuclear physics systems. Some of my specific interests include:
+<div style="text-align: justify"> I am a <b>theoretical physicist</b>. I am mostly interested in describing <b>quantum many-body systems</b> in <b>cold atom</b> and <b>nuclear physics</b>, particularly using field theory approaches. Some of my specific interests include:</div>
 
-* Cold quantum gases
-* Nuclear matter
+* Bose and Fermi gases
+* Quantum mixtures and polarons
+* Nuclear and neutron matter
 * Functional renormalisation group
 * Low-dimensional gases
 * Pairing and superfluidity
 
-Contact:
+## Contact
 
-Departament de Física Quàntica i Astrofísica
-Facultat de Física
-Universitat de Barcelona
-Martí i Franquès, 1
-08028 Barcelona, Spain
+Departament de Física Quàntica i Astrofísica<br>
+Facultat de Física<br>
+Universitat de Barcelona<br>
+Martí i Franquès, 1<br>
+08028 Barcelona<br>
+Spain<br>

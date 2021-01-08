@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>About me | Felipe Isaule</title>
+<!-- begin _includes/seo.html --><title>Research | Felipe Isaule</title>
 <meta name="description" content="Personal website of Dr. Felipe Isaule">
 
 
@@ -20,8 +20,8 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_GB">
 <meta property="og:site_name" content="Felipe Isaule">
-<meta property="og:title" content="About me">
-<meta property="og:url" content="http://localhost:4000/">
+<meta property="og:title" content="Research">
+<meta property="og:url" content="http://localhost:4000/research/">
 
 
   <meta property="og:description" content="Personal website of Dr. Felipe Isaule">
@@ -31,9 +31,9 @@
 
 
   <meta name="twitter:site" content="@felipeisaule">
-  <meta name="twitter:title" content="About me">
+  <meta name="twitter:title" content="Research">
   <meta name="twitter:description" content="Personal website of Dr. Felipe Isaule">
-  <meta name="twitter:url" content="http://localhost:4000/">
+  <meta name="twitter:url" content="http://localhost:4000/research/">
 
   
     <meta name="twitter:card" content="summary">
@@ -53,7 +53,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/">
+<link rel="canonical" href="http://localhost:4000/research/">
 
 
 
@@ -116,7 +116,7 @@
 
   </head>
 
-  <body class="layout--single wide">
+  <body class="layout--single">
     <nav class="skip-links">
   <h2 class="screen-reader-text">Skip links</h2>
   <ul>
@@ -289,7 +289,7 @@
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="About me">
+    <meta itemprop="headline" content="Research">
     
     
     
@@ -297,7 +297,7 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">About me
+          <h1 id="page-title" class="page__title" itemprop="headline">Research
 </h1>
           
 
@@ -307,25 +307,40 @@
 
       <section class="page__content" itemprop="text">
         
-        <div style="text-align: justify"> I am a <b>theoretical physicist</b>. I am mostly interested in describing <b>quantum many-body systems</b> in <b>cold atom</b> and <b>nuclear physics</b>, particularly using field theory approaches. Some of my specific interests include:</div>
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#functional-renormalisation-group">Functional renormalisation group</a></li><li><a href="#cold-quantum-gases">Cold quantum gases</a><ul><li><a href="#quantum-mixtures">Quantum mixtures</a></li></ul></li></ul>
 
-<ul>
-  <li>Bose and Fermi gases</li>
-  <li>Quantum mixtures and polarons</li>
-  <li>Nuclear and neutron matter</li>
-  <li>Functional renormalisation group</li>
-  <li>Low-dimensional gases</li>
-  <li>Pairing and superfluidity</li>
-</ul>
+            </nav>
+          </aside>
+        
+        <h2 id="functional-renormalisation-group">Functional renormalisation group</h2>
 
-<h2 id="contact">Contact</h2>
+<div style="text-align: justify">
+The <b>functional renormalisation group</b> (FRG) is a non-perturbative implementation of the Wilsonian RG. The FRG is based on the evaluation of the Legendre transformed effective action by solving an exact flow equation. During the RG flow, the physics associated with different scales are incorporated into the effective action as the momentum cut-off is lowered, and so fluctuations are gradually incorporated into the solution. This coarse-graning is particularly useful when degrees of freedom are correlated over a wide range of scales.
+<br /><br />
+The FRG has been proved a powerful tool to extract the low-energy properties of systems in a variety of fields, including high-energy, cold atom and statistical physics. In particular, the FRG is particularly useful to study <b>strongly-correlated systems</b> and to study critical phenomena of phase transitions. For a recent comprehensive review on the FRG, please see 
+<a href="https://arxiv.org/abs/2006.04853">arXiv:2006.04853</a>.
+<br /><br />
+I have mostly used the FRG to study non-relativistic many-body systems in cold atom physics, including Bose and Fermi gases. My recent research has focused on FRG studies of Bose-Bose mixtures and the Bose polaron.
+</div>
 
-<p>Departament de Física Quàntica i Astrofísica<br />
-Facultat de Física<br />
-Universitat de Barcelona<br />
-Martí i Franquès, 1<br />
-08028 Barcelona<br />
-Spain<br /></p>
+<h2 id="cold-quantum-gases">Cold quantum gases</h2>
+
+<div style="text-align: justify">
+Cold quantum gases correspond to many-body systems of particles at sufficiently low temperatures, so quantum effects become important. These gases can show a plethora of phenomena, including condensation and superfluidity, quantum phase transitions, topological phases, amongst others. Even though quantum gases can be seen as idealised many-body systems, they can actually be produced with cold atom experiments. Since the realisation of degenerate cold atom gases in the mid-90s, experimentalists have been able to produce cold atom gases with an unprecedented level of control and accuracy, revolutionising the field of quantum many-body physics. In particular, cold atom experiments are seen as a promising tool to simulate other quantum many-body systems. For reviews see Refs. <a href="https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.80.885">Rev. Mod. Phys. <b>80</b>, 885 (2008)</a> and <a href="https://www.nature.com/articles/nphys2259">Nat. Phys. <b>8</b>, 267 (2012)</a>.
+<br /><br />
+I have worked on the description of homogeneous quantum gases with the FRG. Some of my recent interests include low-dimensional gases, Bose-Bose mixtures and the Bose polaron.
+</div>
+
+<h3 id="quantum-mixtures">Quantum mixtures</h3>
+
+<div style="text-align: justify">
+Quantum mixtures correspond to quantum gases composed of particles of two or more species. Amongst these, <b>Bose-Bose mixtures</b>, gases composed of two species of bosons, have attracted great attention in recent years. The interplay between the two components of the gas leads to rich physics, such as the non-dissipative drag, coherently coupled condensates and phase separations. Special attention has been put into the study of attractive Bose-Bose mixtures. As shown in the <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.155302">seminal work by  D. Petrov</a>, when there is a strong inter-species attraction, the gas can form a droplet or liquid phase that is maintained purely by quantum fluctuations. 
+<br /><br />
+Recently, I have worked on the description of Bose-Bose mixtures with the FRG. We have studied two- and three-dimensional repulsive Bose-Bose mixtures, and we have shown that the FRG is perfectly capable of reproducing the known macroscopic properties. We plan to study attractive Bose-Bose mixtures, particularly the regime of strong inter-species attractions. We expect that in this regime, the FRG will provide a more robust description compared to other approaches.
+</div>
 
         
       </section>
