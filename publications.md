@@ -15,7 +15,7 @@ All my publications are available for free either at arXiv or through Open acces
 
 ### Preprints
 
-* **F. Isaule**, I. Morera, P. Massignan and B. Juliá-Díaz, _Renormalization group study of Bose polarons_, Physical Review A **103**, 013318 (2021). [arXiv:2105.10801](https://arxiv.org/abs/2105.10801).
+* **F. Isaule**, I. Morera, P. Massignan and B. Juliá-Díaz, _Renormalization group study of Bose polarons_. [arXiv:2105.10801](https://arxiv.org/abs/2105.10801).
 
 ### Publications
 
