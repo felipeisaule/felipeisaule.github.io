@@ -13,6 +13,10 @@ classes: wide
 
 All my publications are available for free either at arXiv or through Open access. You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-0707), [gScholar](https://scholar.google.com/citations?user=b-MCzAsAAAAJ&hl=en&oi=ao) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57190371396) profiles.
 
+### Preprints
+
+* **F. Isaule**, I. Morera, P. Massignan and B. Juliá-Díaz, _Renormalization group study of Bose polarons_, Physical Review A **103**, 013318 (2021). [arXiv:2105.10801](https://arxiv.org/abs/2105.10801).
+
 ### Publications
 
 * **F. Isaule**, I. Morera, A. Polls and B. Juliá-Díaz, _Functional renormalization for repulsive Bose-Bose mixtures at zero temperature_, Physical Review A **103**, 013318 (2021). [doi: 10.1103/PhysRevA.103.013318](https://link.aps.org/doi/10.1103/PhysRevA.103.013318). [arXiv:2011.00487](https://arxiv.org/abs/2011.00487).
