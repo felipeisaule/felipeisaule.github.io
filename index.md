@@ -16,9 +16,9 @@ classes: wide
 
 ## Contact
 
-Departament de Física Quàntica i Astrofísica<br>
-Facultat de Física<br>
-Universitat de Barcelona<br>
-Martí i Franquès, 1<br>
-08028 Barcelona<br>
-Spain<br>
+School of Physics & Astronomy<br>
+Kelvin Building<br>
+University of Glasgow<br>
+Glasgow G12 8QQ<br>
+Scotland<br>
+United Kingdom<br>
