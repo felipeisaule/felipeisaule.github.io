@@ -13,7 +13,9 @@ I am a theoretical physicist from **Chile**. My detailed timeline is:
 
 ### Research Positions and Education
 
-* **2020-present: Postdoctoral researcher** at [ICCUB](http://icc.ub.edu/) (Spain).<br>
+* **2021-Present: Research associate** at [Quantum Theory Group, University of Glasgow](https://www.gla.ac.uk/schools/physics/research/groups/qtg/) (UK).<br>
+    Advisor: [Dr. Jörg Götte](http://jbgoette.net).
+* **2020-2021: Postdoctoral researcher** at [ICCUB](http://icc.ub.edu/) (Spain).<br>
     Advisor: [Prof. Bruno Juliá-Díaz](http://www.ecm.ub.es/~bruno/).
 * **2016-2019: PhD student** at [Nuclear Theory Group, The University of Manchester](https://theory.physics.manchester.ac.uk/groups/index.php/home/groups/nuclear-theory/) (UK).<br>
     Supervisors: [Prof. Michael Birse](https://theory.physics.manchester.ac.uk/~mikeb/) and [Prof. Niels Walet](https://scholar.google.com/citations?user=gU6xqZcAAAAJ&hl=en&oi=ao).<br>
