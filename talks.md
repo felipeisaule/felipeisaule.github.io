@@ -23,7 +23,7 @@ classes: wide
 
 ### Posters
 
-* 13/12/2021, [_Renormalisation-group study of Bose Polaron_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2021_BosePolarons_BEC21.pdf), at [_BEC2021 Conference_](https://bec2021.org/), Online/Sant Feliu (Spain)
+* 13/12/2021, [_Renormalisation-group study of Bose Polarons_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2021_BosePolarons_BEC21.pdf), at [_BEC2021 Conference_](https://bec2021.org/), Online/Sant Feliu (Spain)
 * 14/12/2020, [_Functional renormalization for Bose-Bose mixtures_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2020_Mixtures_BadHonnef.pdf) (as a short talk), at [_Exploring Quantum Many‐Body Physics with Ultracold Atoms and Molecules_](https://www.we-heraeus-stiftung.de/veranstaltungen/seminare/2020/exploring-quantum-many-body-physics-with-ultracold-atoms-and-molecules/), Online/Bad Honnef (Germany).
 * 9-11/12/2020, [_From linear to hydrodynamic fluctuations_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2018_AP_ERG2018.pdf), at [_ERG2018 Conference_](https://erg2018.sciencesconf.org), Paris (France).
 * 26-27/12/2014, [_Structure and cooling of neutron stars: nuclear pairing and superfluid effects_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2014_NStars_SimposioCL.pdf), at [_XIX Chilean Physics Symposium_](http://www.fisica.udec.cl/simposio/inicio.html), Concepción (Chile).
