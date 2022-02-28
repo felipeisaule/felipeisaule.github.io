@@ -15,7 +15,7 @@ All my publications are available for free either at arXiv or through Open acces
 
 ### Preprints
 
-* A. Rojo-Francàs, **F. Isaule**, and Bruno Juliá-Díaz, _On the direct diagonalization method for a few particles trapped in harmonic potentials_, arXiv:2202.12749. 
+* A. Rojo-Francàs, **F. Isaule**, and Bruno Juliá-Díaz, _On the direct diagonalization method for a few particles trapped in harmonic potentials_. 
 [arXiv:2202.12749](https://arxiv.org/abs/2202.12749).
 
 ### Publications
