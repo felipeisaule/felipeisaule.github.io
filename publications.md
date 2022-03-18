@@ -15,6 +15,7 @@ All my publications are available for free either at arXiv or through Open acces
 
 ### Preprints
 
+* **F. Isaule**, R. Bennett, and J. B. Götte, _Quantum phases of bosonic chiral molecules in helicity lattices_. [arXiv:2203.09246](https://arxiv.org/abs/2203.09246).
 * A. Rojo-Francàs, **F. Isaule**, and Bruno Juliá-Díaz, _On the direct diagonalization method for a few particles trapped in harmonic potentials_. 
 [arXiv:2202.12749](https://arxiv.org/abs/2202.12749).
 
