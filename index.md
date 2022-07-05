@@ -5,7 +5,7 @@ title: About me
 classes: wide
 ---
 
-<div style="text-align: justify"> I am a <b>theoretical physicist</b>. I am mostly interested in describing <b>quantum many-body systems</b> in <b>ultracold atom physics. Some of my specific interests include:</div>
+<div style="text-align: justify"> I am a <b>theoretical physicist</b>. I am mostly interested in describing <b>quantum many-body systems</b> in <b>ultracold atom physics</b>. Some of my specific interests include:</div>
 
 * Bose and Fermi gases
 * Quantum mixtures and polarons
