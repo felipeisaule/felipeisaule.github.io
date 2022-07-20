@@ -15,6 +15,7 @@ All my publications are available for free either at arXiv or through Open acces
 
 ### Preprints
 
+* V. R. Yordanov and **F. Isaule**, _Mobile impurities interacting with a few one-dimensional lattice bosons_. [arXiv:2207.09309](https://arxiv.org/abs/2207.09309).
 * **F. Isaule**, R. Bennett, and J. B. Götte, _Quantum phases of bosonic chiral molecules in helicity lattices_. [arXiv:2203.09246](https://arxiv.org/abs/2203.09246).
 
 ### Publications
