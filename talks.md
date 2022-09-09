@@ -13,6 +13,7 @@ classes: wide
 
 ### Selected Talks
 
+* 05/09/2022, [_Quantum phases of bosonic chiral molecules in helicity lattices_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2022_Helicity_CCMI.pdf), at [_CCMI2022 Conference_](https://cartygroup.wordpress.com/), Durham (UK).
 * 16/06/2021, [_Functional renormalization group for cold atom mixtures_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2021_Mixtures_SuperFluctuations.pdf), at [_Superfluctuations 2021_](http://www.multisuper.org/superfluctuations-2021), Online/Padua (Italy).
 * 05/11/2020, [_Functional renormalization for Bose-Bose mixtures_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2020_Mixtures_ERG2020.pdf), at [_ERG2020 Conference_](https://www2.yukawa.kyoto-u.ac.jp/~erg2020/ERG2020.html), Online/Kyoto (Japan).
 * 12/03/2020, [_Cold atom gases from functional Renormalization_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2020_FRG_ICC.pdf), [ICCUB seminar](http://icc.ub.edu/activity/1464), Barcelona (Spain).
