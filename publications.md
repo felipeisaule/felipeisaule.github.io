@@ -15,7 +15,7 @@ All my publications are available for free either at arXiv or through open acces
 
 ### Publications
 
-* V. R. Yordanov and **F. Isaule**, _Mobile impurities interacting with a few one-dimensional lattice bosons_, Journal of Physics B, **56** 045301 (2023).
+* V. R. Yordanov and **F. Isaule**, _Mobile impurities interacting with a few one-dimensional lattice bosons_, Journal of Physics B **56**, 045301 (2023).
 [doi: 10.1088/1361-6455/acb51b](https://iopscience.iop.org/article/10.1088/1361-6455/acb51b).
 [arXiv:2207.09309](https://arxiv.org/abs/2207.09309).
 * **F. Isaule**, R. Bennett, and J. B. Götte, _Quantum phases of bosonic chiral molecules in helicity lattices_, Physical Review A **106**, 013321 (2022). [doi: 10.1103/PhysRevA.106.013321](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.013321).
