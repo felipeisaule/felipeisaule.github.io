@@ -11,15 +11,13 @@ classes: wide
 
 
 
-All my publications are available for free either at arXiv or through Open access. You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-0707), [gScholar](https://scholar.google.com/citations?user=b-MCzAsAAAAJ&hl=en&oi=ao) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57190371396) profiles.
-
-### Preprints
-
-* V. R. Yordanov and **F. Isaule**, _Mobile impurities interacting with a few one-dimensional lattice bosons_. [arXiv:2207.09309](https://arxiv.org/abs/2207.09309).
+All my publications are available for free either at arXiv or through open access. You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-0707), [gScholar](https://scholar.google.com/citations?user=b-MCzAsAAAAJ&hl=en&oi=ao) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57190371396) profiles.
 
 ### Publications
 
-
+* V. R. Yordanov and **F. Isaule**, _Mobile impurities interacting with a few one-dimensional lattice bosons_, Journal of Physics B, **56** 045301 (2023).
+[doi: 10.1088/1361-6455/acb51b](https://iopscience.iop.org/article/10.1088/1361-6455/acb51b).
+[arXiv:2207.09309](https://arxiv.org/abs/2207.09309).
 * **F. Isaule**, R. Bennett, and J. B. Götte, _Quantum phases of bosonic chiral molecules in helicity lattices_, Physical Review A **106**, 013321 (2022). [doi: 10.1103/PhysRevA.106.013321](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.013321).
 [arXiv:2203.09246](https://arxiv.org/abs/2203.09246).
 * A. Rojo-Francàs, **F. Isaule**, and Bruno Juliá-Díaz, _Direct diagonalization method for a few particles trapped in harmonic potentials_, Physical Review A **105**, 063326 (2022). [doi: 10.1103/PhysRevA.105.063326](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.063326). 
