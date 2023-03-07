@@ -13,6 +13,11 @@ classes: wide
 
 All my publications are available for free either at arXiv or through open access. You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-0707), [gScholar](https://scholar.google.com/citations?user=b-MCzAsAAAAJ&hl=en&oi=ao) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57190371396) profiles.
 
+
+### Preprints
+
+* **F. Isaule**, R. Bennett, and J. B. Götte, _Rotational properties of two interacting cold polar molecules: linear, symmetric, and asymmetric tops_. [arXiv:2303.02199](https://arxiv.org/abs/2303.02199).
+
 ### Publications
 
 * V. R. Yordanov and **F. Isaule**, _Mobile impurities interacting with a few one-dimensional lattice bosons_, Journal of Physics B **56**, 045301 (2023).
