@@ -13,7 +13,7 @@ classes: wide
 
 ### Selected Talks
 
-* 08/03/2023, [_Quantum phases of bosonic chiral molecules in helicity lattices_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2023_Molecules_UoM.pdf), at [_Seminar Theoretical Physics Group University of Manchester_]([https://cartygroup.wordpress.com/](https://theory.physics.manchester.ac.uk/groups/index.php/calendar/86/), Manchester (UK).
+* 08/03/2023, [_Rotational properties of two interacting ultracold polar molecules_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2023_Molecules_UoM.pdf), at [_Seminar Theoretical Physics Group University of Manchester_](https://theory.physics.manchester.ac.uk/groups/index.php/calendar/86/), Manchester (UK).
 * 05/09/2022, [_Quantum phases of bosonic chiral molecules in helicity lattices_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2022_Helicity_CCMI.pdf), at [_CCMI2022 Conference_](https://cartygroup.wordpress.com/), Durham (UK).
 * 16/06/2021, [_Functional renormalization group for cold atom mixtures_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2021_Mixtures_SuperFluctuations.pdf), at [_Superfluctuations 2021_](http://www.multisuper.org/superfluctuations-2021), Online/Padua (Italy).
 * 05/11/2020, [_Functional renormalization for Bose-Bose mixtures_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2020_Mixtures_ERG2020.pdf), at [_ERG2020 Conference_](https://www2.yukawa.kyoto-u.ac.jp/~erg2020/ERG2020.html), Online/Kyoto (Japan).
