@@ -17,6 +17,7 @@ All my publications are available for free either at arXiv or through open acces
 ### Preprints
 
 * **F. Isaule**, R. Bennett, and J. B. Götte, _Rotational properties of two interacting cold polar molecules: linear, symmetric, and asymmetric tops_. [arXiv:2303.02199](https://arxiv.org/abs/2303.02199).
+*  A. Rojo-Francàs, **F. Isaule**, and B. Juliá-Díaz, _Few distinguishable particles with an impurity in a one-dimensional harmonic trap_. [arXiv:2303.17943](https://arxiv.org/abs/2303.17943). 
 
 ### Publications
 
