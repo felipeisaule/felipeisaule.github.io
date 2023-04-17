@@ -97,8 +97,8 @@ analytics:
 author:
   name             : "Dr. Felipe Isaule"
   avatar           : "/assets/images/foto2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research Associate<br>University of Glasgow"
-  location         : "Glasgow, UK"
+  bio              : "Postdoctoral Fellow<br>Pontificia Universidad Católica de Chile"
+  location         : "Santiago, Chile"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
