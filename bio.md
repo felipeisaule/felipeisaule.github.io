@@ -13,7 +13,9 @@ I am a theoretical physicist from **Chile**. My detailed timeline is:
 
 ### Research Positions and Education
 
-* **2021-Present: Research associate** at [Quantum Theory Group, University of Glasgow](https://www.gla.ac.uk/schools/physics/research/groups/qtg/) (UK).<br>
+* **2023-present: Postdoctoral fellow** at [Instituto de Física, Pontificia Universidad Católica de Chile](https://fisica.uc.cl/) (Chile).<br>
+    Advisor: [Dr. Luis Morales-Molina](https://scholar.google.com/citations?hl=en&user=uPyaO_QAAAAJ&view_op=list_works&sortby=pubdate).
+* **2021-2023: Research associate** at [Quantum Theory Group, University of Glasgow](https://www.gla.ac.uk/schools/physics/research/groups/qtg/) (UK).<br>
     Advisor: [Dr. Jörg Götte](http://jbgoette.net).
 * **2020-2021: Postdoctoral researcher** at [ICCUB](http://icc.ub.edu/) (Spain).<br>
     Advisor: [Prof. Bruno Juliá-Díaz](http://www.ecm.ub.es/~bruno/).
