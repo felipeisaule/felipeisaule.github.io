@@ -15,9 +15,7 @@ classes: wide
 
 ## Contact
 
-School of Physics & Astronomy<br>
-Kelvin Building<br>
-University of Glasgow<br>
-Glasgow G12 8QQ<br>
-Scotland<br>
-United Kingdom<br>
+Instituto de Física<br>
+Pontificia Universidad Católica de Chile<br>
+Santiago<br>
+Chile<br>
