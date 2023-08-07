@@ -10,4 +10,4 @@ classes: wide
 ---
 
 
-*  [Dinámica FIS1515 (2023)](/docencia/fis1514_23_02/)
+*  [Dinámica FIS1514 (2023)](/docencia/fis1514_23_02/)
