@@ -5,9 +5,9 @@
 layout: single
 author_profile: true
 title: Teaching
-permalink: /teaching/
+permalink: /docencia/
 classes: wide
 ---
 
 
-*  [Dinámica FIS1515 (2023)](/teaching/fis1514_23_02/)
+*  [Dinámica FIS1515 (2023)](/docencia/fis1514_23_02/)

@@ -8,8 +8,8 @@ main:
     url: /publications/
   - title: "Talks&Posters"
     url: /talks/
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Docencia"
+    url: /docencia/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
