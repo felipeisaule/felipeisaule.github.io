@@ -10,4 +10,5 @@ classes: wide
 ---
 
 
-*  [Dinámica FIS1514 (2023)](/docencia/fis1514_23_02/)
+*  [Mecánica FI2001 (2013-1)](/docencia/fi2001_13_1/)
+*  [Dinámica FIS1514 (2023-2)](/docencia/fis1514_23_2/)
