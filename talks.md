@@ -25,6 +25,7 @@ classes: wide
 
 ### Posters
 
+* 19/09/2023, [_Two distinguishable impurities interacting with a few one-dimensional lattice bosons_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2023_LatticeImpurities_UltracoldMixtures.pdf), at [_Ultracold mixtures: polarons and beyond_](https://sites.google.com/view/oxford-polaron-conference/home/), Oxford (UK).
 * 13-15/06/2022, [_Quantum phases of bosonic chiral molecules in helicity lattices_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2022_HelicityLattice_ICOAM2022.pdf), at [_ICOAM2022 Conference_](https://events.tuni.fi/icoam2022/), Tampere (Finland).
 * 13/09/2021, [_Renormalisation-group study of Bose Polarons_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2021_BosePolarons_BEC21.pdf), at [_BEC2021 Conference_](https://bec2021.org/), Online/Sant Feliu (Spain).
 * 14/12/2020, [_Functional renormalization for Bose-Bose mixtures_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2020_Mixtures_BadHonnef.pdf) (as a short talk), at [_Exploring Quantum Many‐Body Physics with Ultracold Atoms and Molecules_](https://www.we-heraeus-stiftung.de/veranstaltungen/seminare/2020/exploring-quantum-many-body-physics-with-ultracold-atoms-and-molecules/), Online/Bad Honnef (Germany).
