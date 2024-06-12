@@ -37,3 +37,15 @@ Quantum mixtures correspond to quantum gases composed of particles of two or mor
 <br><br>
 Recently, I have worked on the description of Bose-Bose mixtures with the FRG. We have studied two- and three-dimensional repulsive Bose-Bose mixtures, and we have shown that the FRG is perfectly capable of reproducing the known macroscopic properties. We plan to study attractive Bose-Bose mixtures, particularly the regime of strong inter-species attractions. We expect that in this regime, the FRG will provide a more robust description compared to other approaches.
 </div>
+
+### Polarons and impurities
+
+## Cold molecules
+
+## Computational techniques
+
+### Exact Diagonalisation
+
+### DMRG
+
+### Machine Learning
