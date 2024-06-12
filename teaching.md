@@ -19,3 +19,4 @@ classes: wide
 ## Profesor de Cátedra (Pontificia Universidad Católica de Chile)
 
 *  [Dinámica FIS1514 (2023-2)](/docencia/fis1514_23_2/)
+*  Dinámica FIS1514 (2024-1)
