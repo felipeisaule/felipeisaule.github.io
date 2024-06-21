@@ -16,6 +16,7 @@ All my publications are available for free either at arXiv or through open acces
 
 ### Preprints
 
+* A. Rojo-Francàs, **F. Isaule**, A. C. Santos, B. Juliá-Díaz, and N. T. Zinner, _Stable SAP-like collective charging of ultracold atoms quantum batteries_. [arXiv:2406.07397](https://arxiv.org/abs/2406.07397).
 * **F. Isaule**, A. Rojo-Francàs, and B. Juliá-Díaz, _Bound impurities in a one-dimensional Bose lattice gas: low-energy properties and quench-induced dynamics_. [arXiv:2402.03070](https://arxiv.org/abs/2402.03070).
 * **F. Isaule**, _Functional renormalisation group approach to the finite-temperature Bose polaron_. [arXiv:2402.04197](https://arxiv.org/abs/2402.04197).
 * **F. Isaule**, R. Bennett, and J. B. Götte, _Rotational properties of two interacting cold polar molecules: linear, symmetric, and asymmetric tops_. [arXiv:2303.02199](https://arxiv.org/abs/2303.02199).
