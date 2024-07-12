@@ -27,7 +27,7 @@ classes: wide
 
 ### Posters
 
-* 15/07/2024, [_Quench-induced dynamics of bound impurities in a one-dimensional Bose lattice gas_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2024_LatticeBoseBipolarons1D_ICAP), at [_The 28th International Conference on Atomic Physics (ICAP 2024)_](https://icap28.com/), London (UK).
+* 15/07/2024, [_Quench-induced dynamics of bound impurities in a one-dimensional Bose lattice gas_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2024_LatticeBoseBipolarons1D_ICAP.pdf), at [_The 28th International Conference on Atomic Physics (ICAP 2024)_](https://icap28.com/), London (UK).
 * 19/09/2023, [_Two distinguishable impurities interacting with a few one-dimensional lattice bosons_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2023_LatticeImpurities_UltracoldMixtures.pdf), at [_Ultracold mixtures: polarons and beyond_](https://sites.google.com/view/oxford-polaron-conference/home/), Oxford (UK).
 * 13-15/06/2022, [_Quantum phases of bosonic chiral molecules in helicity lattices_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2022_HelicityLattice_ICOAM2022.pdf), at [_ICOAM2022 Conference_](https://events.tuni.fi/icoam2022/), Tampere (Finland).
 * 13/09/2021, [_Renormalisation-group study of Bose Polarons_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2021_BosePolarons_BEC21.pdf), at [_BEC2021 Conference_](https://bec2021.org/), Online/Sant Feliu (Spain).
