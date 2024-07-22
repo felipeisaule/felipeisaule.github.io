@@ -12,6 +12,7 @@ classes: wide
 * Polarons and impurities
 * Cold molecules
 * Functional renormalisation group
+* Atomtronics
 * Computational Physics
 
 ## Contact
