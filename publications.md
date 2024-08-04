@@ -23,11 +23,9 @@ All my publications are available for free either at arXiv or through open acces
 
 ### Publications
 
-* **F. Isaule**, A. Rojo-Francàs, and B. Juliá-Díaz, _Bound impurities in a one-dimensional Bose lattice gas: low-energy properties and quench-induced dynamics_, SciPost Phys. Core **7**, 049 (2024).
-[doi: 10.21468/SciPostPhysCore.7.3.049](https://scipost.org/SciPostPhysCore.7.3.049)  
-[arXiv:2402.03070](https://arxiv.org/abs/2402.03070).
+* **F. Isaule**, A. Rojo-Francàs, and B. Juliá-Díaz, _Bound impurities in a one-dimensional Bose lattice gas: low-energy properties and quench-induced dynamics_, SciPost Physics Core **7**, 049 (2024). [doi: 10.21468/SciPostPhysCore.7.3.049](https://scipost.org/SciPostPhysCore.7.3.049). [arXiv:2402.03070](https://arxiv.org/abs/2402.03070).
 *  A. Rojo-Francàs, **F. Isaule**, and B. Juliá-Díaz, _Few particles with an impurity in a one-dimensional harmonic trap_, Physica Scripta **99**, 045408 (2024).
-[doi: 10.1088/1402-4896/ad3301](https://iopscience.iop.org/article/10.1088/1402-4896/ad3301)
+[doi: 10.1088/1402-4896/ad3301](https://iopscience.iop.org/article/10.1088/1402-4896/ad3301).
 [arXiv:2303.17943](https://arxiv.org/abs/2303.17943).
 * V. R. Yordanov and **F. Isaule**, _Mobile impurities interacting with a few one-dimensional lattice bosons_, Journal of Physics B **56**, 045301 (2023).
 [doi: 10.1088/1361-6455/acb51b](https://iopscience.iop.org/article/10.1088/1361-6455/acb51b).
