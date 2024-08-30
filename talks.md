@@ -11,7 +11,7 @@ classes: wide
 
 
 
-### Selected Talks
+### Selected Talks at conferences and seminars
 
 * 11/07/2024, [_Bound impurities in a one-dimensional Bose lattice gas_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2024_LatticeBoseBipolarons1D_UPC.pdf), at [_BQMC Group - Universitat Politècnica de Catalunya (UPC)_](https://bqmc.upc.edu/) Seminar, Barcelona (Spain).
 * 08/03/2023, [_Rotational properties of two interacting ultracold polar molecules_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2023_Molecules_UoM.pdf), at [_Theoretical Physics - The University of Manchester (UoM)_](https://theory.physics.manchester.ac.uk/groups/) Seminar, Manchester (UK).
