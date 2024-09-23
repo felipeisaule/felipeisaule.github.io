@@ -17,11 +17,11 @@ All my publications are available for free either at arXiv or through open acces
 ### Preprints
 
 * **F. Isaule**, _Functional renormalisation group approach to the finite-temperature Bose polaron_. [arXiv:2402.04197](https://arxiv.org/abs/2402.04197).
-* **F. Isaule**, R. Bennett, and J. B. Götte, _Rotational properties of two interacting cold polar molecules: linear, symmetric, and asymmetric tops_. [arXiv:2303.02199](https://arxiv.org/abs/2303.02199).
 
 
 ### Publications
 
+* **F. Isaule**, R. Bennett, and J. B. Götte, _Rotational properties of two interacting cold polar molecules: linear, symmetric, and asymmetric tops_, Physical Review A **110**, 033323 (2024). [doi: 10.1103/PhysRevA.110.033323](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.033323). [arXiv:2303.02199](https://arxiv.org/abs/2303.02199).
 * A. Rojo-Francàs, **F. Isaule**, A. C. Santos, B. Juliá-Díaz, and N. T. Zinner, _Stable collective charging of ultracold-atom quantum batteries_, Physical Review A **110**, 032205 (2024). [doi: 10.1103/PhysRevA.110.032205](https://doi.org/10.1103/PhysRevA.110.032205). [arXiv:2406.07397](https://arxiv.org/abs/2406.07397).
 * **F. Isaule**, A. Rojo-Francàs, and B. Juliá-Díaz, _Bound impurities in a one-dimensional Bose lattice gas: low-energy properties and quench-induced dynamics_, SciPost Physics Core **7**, 049 (2024). [doi: 10.21468/SciPostPhysCore.7.3.049](https://scipost.org/SciPostPhysCore.7.3.049). [arXiv:2402.03070](https://arxiv.org/abs/2402.03070).
 *  A. Rojo-Francàs, **F. Isaule**, and B. Juliá-Díaz, _Few particles with an impurity in a one-dimensional harmonic trap_, Physica Scripta **99**, 045408 (2024).
