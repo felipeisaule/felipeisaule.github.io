@@ -16,7 +16,7 @@ You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-
 
 ### Publications
 
-* L. Morales-Molina and **F. Isaule**, Resonance detuning mechanism for directing particle flow in ring lattices, Physical Review A **110**, 053313 (2024). [doi: 10.1103/PhysRevA.110.053313](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.053313).
+* L. Morales-Molina and **F. Isaule**, _Resonance detuning mechanism for directing particle flow in ring lattices_, Physical Review A **110**, 053313 (2024). [doi: 10.1103/PhysRevA.110.053313](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.053313).
 * **F. Isaule**, _Functional renormalisation group approach to the finite-temperature Bose polaron_,  Europhysics Letters **147**, 6500 (2024). [doi: 10.1209/0295-5075/ad763d](https://iopscience.iop.org/article/10.1209/0295-5075/ad763d). [arXiv:2402.04197](https://arxiv.org/abs/2402.04197).
 * **F. Isaule**, R. Bennett, and J. B. Götte, _Rotational properties of two interacting cold polar molecules: linear, symmetric, and asymmetric tops_, Physical Review A **110**, 033323 (2024). [doi: 10.1103/PhysRevA.110.033323](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.033323). [arXiv:2303.02199](https://arxiv.org/abs/2303.02199).
 * A. Rojo-Francàs, **F. Isaule**, A. C. Santos, B. Juliá-Díaz, and N. T. Zinner, _Stable collective charging of ultracold-atom quantum batteries_, Physical Review A **110**, 032205 (2024). [doi: 10.1103/PhysRevA.110.032205](https://doi.org/10.1103/PhysRevA.110.032205). [arXiv:2406.07397](https://arxiv.org/abs/2406.07397).
