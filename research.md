@@ -6,51 +6,50 @@ layout: single
 author_profile: true
 title: Research
 permalink: /research/
-toc: true
+toc: false
 toc_label: "Contents"
 ---
 
-## Ultracold quantum gases
+
+### Ultracold atom mixtures and polarons
 
 <div style="text-align: justify">
-Ultracold quantum gases correspond to many-body systems of particles at sufficiently low temperatures so quantum effects become important. These gases can show a plethora of phenomena, including condensation and superfluidity, quantum phase transitions, topological phases, amongst others. Even though quantum gases can be seen as idealised many-body systems, they can actually be produced with ultracold atom experiments. Starting from the realisation of Bose-Einstein condensation in the mid-90s, experimentalists have been able to produce ultracold atom gases with an unprecedented level of control and accuracy, revolutionising the field of quantum many-body physics. In particular, ultracold atom experiments are seen as a promising tool to simulate other quantum many-body systems. For reviews see Refs. <a href="https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.80.885">Rev. Mod. Phys. <b>80</b>, 885 (2008)</a> and <a href="https://www.nature.com/articles/nphys2259">Nat. Phys. <b>8</b>, 267 (2012)</a>. Moreover, ultracold atoms can be used for developing quantum technologies, for example in the form of atomtronics. For a review see Ref. <a href="https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.041001">Rev. Mod. Phys. <b>94</b>, 041001 (2022)</a>
+Quantum mixtures correspond to quantum gases composed of particles with two or more species. They have received increased attention in the past decade due to the onset of rich physics, such as the non-dissipative drag, coherently coupled condensates, and quantum droplets. In addition, of particular interest is the limit of high population imbalance, where the minority species form a gas of impurities. Such impurities form quasiparticles referred to as polarons, which are relevant in many physical fields. I am interested in describing strongly interacting mixtures and polarons with state-of-the-art theoretical and computational techniques. 
 
-<br><br>
-While I have interest in broad aspects of ultracold atom physics, my main interest in the past few years include the study of quantum mixtures and systems of impurities.
+Relevant publications:
+* SciPost Physics Core **7**, 049 (2024).
+* Physical Review A **104**, 023317 (2021).
+* Physical Review A **103**, 013318 (2021)
 </div>
 
-### Quantum mixtures
 
-<div style="text-align: justify">
-Quantum mixtures correspond to quantum gases composed of particles with two or more species. Amongst these, <b>Bose-Bose mixtures</b>, gases composed of two species of bosons, have attracted great attention in recent years. The interplay between the two components of the gas leads to rich physics, such as the non-dissipative drag, coherently coupled condensates and phase separations. Special attention has been put into the study of attractive Bose-Bose mixtures. As shown in the <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.155302">seminal work by  D. Petrov</a>, when there is a strong inter-species attraction, the gas can form a droplet or liquid phase that is maintained purely by quantum fluctuations.
-</div>
-
-### Polarons and impurities
-
-<div style="text-align: justify">
-A quantum mixture in the limit of extreme population imbalance, the species with a vanishing macroscopic density essentially form a gas of impurities. The problem of impurities coupled to a quantum bath is ubiquitous in physics, appearing in many physical systems. In particular, impurities form dressed quasiparticles usually referred to as polarons. Thanks to the progress realising quantum mixtures with ultracold atom experiments, the interest on polaron physics has greatly increased in the past decade. I am particularly interested on impurities immersed in a Bose bath, which are usually known as Bose polarons. I am also interested on systems confined in optical lattices, which can show what has been named as a Lattice polaron.
-</div>
-
-## Functional renormalisation group
+## Functional renormalisation group for quantum gases
 
 <div style="text-align: justify">
 The <b>functional renormalisation group</b> (FRG) is a non-perturbative implementation of the Wilsonian RG. The FRG is based on the evaluation of the Legendre transformed effective action by solving an exact flow equation. During the RG flow, the physics associated with different scales are incorporated into the effective action as the momentum cut-off is lowered, and so fluctuations are gradually incorporated into the solution. This coarse-graning is particularly useful when degrees of freedom are correlated over a wide range of scales.
 <br><br>
-The FRG has been proved a powerful tool to extract the low-energy properties of systems in a variety of fields, including high-energy, ultracold atom and statistical physics. In particular, the FRG is particularly useful to study <b>strongly-correlated systems</b> and to study critical phenomena of phase transitions. For a recent comprehensive review on the FRG, please see
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0370157321000156?via%3Dihub">Physics Reports <b>910</b>, 1 (2021)</a>.
-<br><br>
-I have mostly used the FRG to study non-relativistic many-body systems in ultracold atom physics. My recent research has focused on FRG studies of quantum mixtures and polarons.
+The FRG has been proved a powerful tool to extract the low-energy properties of systems in a variety of fields, including high-energy, ultracold atom and statistical physics. In particular, the FRG is particularly useful to study <b>strongly-correlated systems</b> and to study critical phenomena of phase transitions. I have broad interest on applying the FRG approach to ultracold atomic gases.
+
+Relevant publications:
+* Physical Review A **104**, 023317 (2021).
+* Physical Review B **98**, 144502 (2018).
+
 </div>
 
+## Atomtronics
 
+<div style="text-align: justify">
+Atomtronics is an emergent field that intends to build quantum circuits and devices with ultracold atoms. The seminal atomtronic platform is quantum rings, which are analogous to superconducting circuits, and are realizable in current ultracold atom laboratories. Recently, I started to get involved in different projects that aim to induce and control persistent currents in atomtronic rings.
 
+Relevant publications:
+* Physical Review A **110**, 053313 (2024).
+</div>
 
-## Cold molecules
+## Ultracold molecules
 
-## Computational techniques
+<div style="text-align: justify">
+Ultracold molecules has become the next frontier in the realisation of ultracold quantum matter, being the natural continuation of ultracold atom experiments. Due to their complex structure, molecules are much more difficult to realise experimentally than atoms. However, molecules offer much richer physics. Indeed, while ultracold atoms can be considered as point particles in most situations, molecules have relevant internal degrees of freedom, such as hyperfine structure and rotational modes. In particular, the explotation of rotational modes have been proposed for building platforms for quantum computing. I have started to study the control of molecular rotation, and their use in many-body scenarios to explore the onset of new phases of matter.
 
-### Exact Diagonalisation
-
-### DMRG
-
-### Machine Learning
+Relevant publications:
+* Physical Review A **110**, 033323 (2024).
+</div>
