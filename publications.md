@@ -14,6 +14,10 @@ classes: wide
 You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-0707), [gScholar](https://scholar.google.com/citations?user=b-MCzAsAAAAJ&hl=en&oi=ao) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57190371396) profiles.
 
 
+### Preprints
+
+* H. Briongos-Merino, **F. Isaule**, M. Guilleumas, and B. Juliá-Díaz, _Dipolar magnetostirring protocol for three-well atomtronic circuits_. [arXiv: 2501.05301](https://arxiv.org/abs/2501.05301).
+
 ### Publications
 
 * L. Morales-Molina and **F. Isaule**, _Resonance detuning mechanism for directing particle flow in ring lattices_, Physical Review A **110**, 053313 (2024). [doi: 10.1103/PhysRevA.110.053313](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.053313).
