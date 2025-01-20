@@ -10,14 +10,14 @@ classes: wide
 ---
 
 ## Charlista Escuelas
-* [1ra Escuela Chilena de Átomos Ultarfríos](/docencia/EscuelaAtomosUltrafrios_25/)
+* [1ra Escuela Chilena de Átomos Ultrafríos](/docencia/EscuelaAtomosUltrafrios_25/)
 
 
 ## Profesor de Cátedra (Pontificia Universidad Católica de Chile)
 
-*  [Dinámica FIS1514 (2023-2)](/docencia/fis1514_23_2/)
+*  Dinámica FIS1514 (2023-2)
 *  Dinámica FIS1514 (2024-1)
-*  Dinámica FIS1514 (2024-2)
+*  [Dinámica FIS1514 (2024-2)](/docencia/fis1514_24_2/)
 
 ## Profesor Auxiliar (Universidad de Chile)
 
