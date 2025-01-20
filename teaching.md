@@ -26,4 +26,4 @@ classes: wide
 *  [Mecánica FI2001 (2014-1)](/docencia/fi2001_14_1/)
 *  [Mecánica Cuántica FI4001 (2015-1)](/docencia/fi4001_15_1/)
 
-## 
+
