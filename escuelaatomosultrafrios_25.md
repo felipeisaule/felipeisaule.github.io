@@ -14,3 +14,4 @@ classes: wide
 
 * [_Introducción a los átomos ultrafríos_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/teaching/2025_0/EscuelaAtomosUltrafrios/1_Intro.pdf).
 * [_Crossover BCS-BEC_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/teaching/2025_0/EscuelaAtomosUltrafrios/2_Crossover.pdf).
+* [_Mezclas y Polarones_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/teaching/2025_0/EscuelaAtomosUltrafrios/3_Mezclas.pdf).
