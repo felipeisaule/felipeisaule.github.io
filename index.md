@@ -10,10 +10,8 @@ classes: wide
 * Bose and Fermi gases
 * Ultracold quantum mixtures
 * Polarons and impurities
-* Cold molecules
 * Functional renormalisation group
 * Atomtronics
-* Computational Physics
 
 ## Contact
 
