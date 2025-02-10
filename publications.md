@@ -33,7 +33,7 @@ You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-
 [arXiv:2207.09309](https://arxiv.org/abs/2207.09309).
 * **F. Isaule**, R. Bennett, and J. B. Götte, _Quantum phases of bosonic chiral molecules in helicity lattices_, Physical Review A **106**, 013321 (2022). [doi: 10.1103/PhysRevA.106.013321](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.013321).
 [arXiv:2203.09246](https://arxiv.org/abs/2203.09246).
-* A. Rojo-Francàs, **F. Isaule**, and Bruno Juliá-Díaz, _Direct diagonalization method for a few particles trapped in harmonic potentials_, Physical Review A **105**, 063326 (2022). [doi: 10.1103/PhysRevA.105.063326](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.063326). 
+* A. Rojo-Francàs, **F. Isaule**, and B. Juliá-Díaz, _Direct diagonalization method for a few particles trapped in harmonic potentials_, Physical Review A **105**, 063326 (2022). [doi: 10.1103/PhysRevA.105.063326](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.063326). 
 [arXiv:2202.12749](https://arxiv.org/abs/2202.12749).
 * **F. Isaule** and I. Morera, _Weakly-Interacting Bose–Bose Mixtures from the Functional Renormalisation Group_, Condensed Matter **7**, 9 (2022). [doi: 10.3390/condmat7010009](https://www.mdpi.com/2410-3896/7/1/9). 
 [arXiv:2112.06585 ](https://arxiv.org/abs/2112.06585).
