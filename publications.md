@@ -16,6 +16,7 @@ You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-
 
 ### Preprints
 
+* **F. Isaule**, A. Rojo-Francàs, L. Morales-Molina, and B. Juliá-Díaz, _Counterflow of lattice polarons in harmonically confined optical lattices_. [arXiv:2502.09448](https://arxiv.org/abs/2502.09448).
 * H. Briongos-Merino, **F. Isaule**, M. Guilleumas, and B. Juliá-Díaz, _Dipolar magnetostirring protocol for three-well atomtronic circuits_. [arXiv: 2501.05301](https://arxiv.org/abs/2501.05301).
 
 ### Publications
