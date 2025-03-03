@@ -110,7 +110,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/felipeisaule"
     - label: "Bluesky"
-      icon: "fab fa-fw fa-square-bluesky"
+      icon: "fab fa-fw fa-bluesky-square"
       url: "https://web-cdn.bsky.app/profile/felipeisaule.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
