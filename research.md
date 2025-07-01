@@ -18,9 +18,11 @@ Quantum mixtures correspond to quantum gases composed of particles with two or m
 </div>
 
 Relevant publications:
-* SciPost Physics Core **7**, 049 (2024).
-* Physical Review A **104**, 023317 (2021).
-* Physical Review A **103**, 013318 (2021).
+* [arXiv:2502.09448](https://arxiv.org/abs/2502.09448).
+* [arXiv:2506.21385](https://arxiv.org/abs/2506.21385).
+* [SciPost Physics Core **7**, 049 (2024)](https://scipost.org/SciPostPhysCore.7.3.049).
+* [Physical Review A **104**, 023317 (2021)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.023317).
+* [Physical Review A **103**, 013318 (2021)](https://link.aps.org/doi/10.1103/PhysRevA.103.013318).
 
 
 ## Functional renormalisation group for quantum gases
@@ -32,8 +34,8 @@ The FRG has been proved a powerful tool to extract the low-energy properties of 
 </div>
 
 Relevant publications:
-* Physical Review A **104**, 023317 (2021).
-* Physical Review B **98**, 144502 (2018).
+* [Physical Review A **104**, 023317 (2021)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.023317).
+* [Physical Review B **98**, 144502 (2018)](https://doi.org/10.1103/PhysRevB.98.144502).
 
 
 ## Atomtronics
@@ -43,7 +45,8 @@ Atomtronics is an emergent field that intends to build quantum circuits and devi
 </div>
 
 Relevant publications:
-* Physical Review A **110**, 053313 (2024).
+* [arXiv: 2501.05301](https://arxiv.org/abs/2501.05301)
+* [Physical Review A **110**, 053313 (2024)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.053313).
 
 ## Ultracold molecules
 
@@ -52,4 +55,4 @@ Ultracold molecules has become the next frontier in the realisation of ultracold
 </div>
 
 Relevant publications:
-* Physical Review A **110**, 033323 (2024).
+* [Physical Review A **110**, 033323 (2024)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.033323).
