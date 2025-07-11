@@ -18,7 +18,7 @@ Quantum mixtures correspond to quantum gases composed of particles with two or m
 </div>
 
 Relevant publications:
-* [arXiv:2502.09448](https://arxiv.org/abs/2502.09448).
+* [Physical Review Letters **135**, 023404 (2025)](https://journals.aps.org/prl/abstract/10.1103/9ch1-dnvc).
 * [arXiv:2506.21385](https://arxiv.org/abs/2506.21385).
 * [SciPost Physics Core **7**, 049 (2024)](https://scipost.org/SciPostPhysCore.7.3.049).
 * [Physical Review A **104**, 023317 (2021)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.023317).

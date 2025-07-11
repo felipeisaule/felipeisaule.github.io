@@ -22,6 +22,7 @@ You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-
 
 ### Publications
 
+* **F. Isaule**, A. Rojo-Francàs, L. Morales-Molina, and B. Juliá-Díaz, _Counterflow of Lattice Polarons in Harmonically Confined Optical Lattices_, Physical Review Letters **135**, 023404 (2025). [doi: 10.1103/9ch1-dnvc](https://journals.aps.org/prl/abstract/10.1103/9ch1-dnvc). [arXiv:2502.09448](https://arxiv.org/abs/2502.09448).
 * L. Morales-Molina and **F. Isaule**, _Resonance detuning mechanism for directing particle flow in ring lattices_, Physical Review A **110**, 053313 (2024). [doi: 10.1103/PhysRevA.110.053313](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.053313).
 * **F. Isaule**, _Functional renormalisation group approach to the finite-temperature Bose polaron_,  Europhysics Letters **147**, 6500 (2024). [doi: 10.1209/0295-5075/ad763d](https://iopscience.iop.org/article/10.1209/0295-5075/ad763d). [arXiv:2402.04197](https://arxiv.org/abs/2402.04197).
 * **F. Isaule**, R. Bennett, and J. B. Götte, _Rotational properties of two interacting cold polar molecules: linear, symmetric, and asymmetric tops_, Physical Review A **110**, 033323 (2024). [doi: 10.1103/PhysRevA.110.033323](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.033323). [arXiv:2303.02199](https://arxiv.org/abs/2303.02199).
