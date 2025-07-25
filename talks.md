@@ -13,6 +13,7 @@ classes: wide
 
 ### Selected Talks at conferences and seminars
 
+* 25/07/2025, [_Ultracold polarons and impurities: from lattice polarons to effective field theories_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2025_Polarons_OIST.pdf), at [OIST](https://www.oist.jp/), Okinawa (Japan).
 * 15/11/2024, [_Polarones de Bose en gases de átomos ultrafríos_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2024_BosePolaron_DFI.pdf), at Seminario [DFI - Universidad de Chile (UChile)](https://dfi.uchile.cl/), Santiago (Chile).
 * 11/07/2024, [_Bound impurities in a one-dimensional Bose lattice gas_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2024_LatticeBoseBipolarons1D_UPC.pdf), at [_BQMC Group - Universitat Politècnica de Catalunya (UPC)_](https://bqmc.upc.edu/) Seminar, Barcelona (Spain).
 * 08/03/2023, [_Rotational properties of two interacting ultracold polar molecules_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2023_Molecules_UoM.pdf), at [_Theoretical Physics - The University of Manchester (UoM)_](https://theory.physics.manchester.ac.uk/groups/) Seminar, Manchester (UK).
