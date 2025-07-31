@@ -16,6 +16,7 @@ You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-
 
 ### Preprints
 
+* H. Briongos-Merino, **F. Isaule**, B. Juliá-Díaz, and M. Guilleumas, _Dipolar optimal control of quantum states_. [arXiv: 2507.22822](https://arxiv.org/abs/2507.22822).
 * M. Volante-Abovich, **F. Isaule**, L. Morales-Molina, _Few-body bound states of bosonic mixtures in two-dimensional optical lattices_. [arXiv:2506.21385](https://arxiv.org/abs/2506.21385).
 * H. Briongos-Merino, **F. Isaule**, M. Guilleumas, and B. Juliá-Díaz, _Dipolar magnetostirring protocol for three-well atomtronic circuits_. [arXiv: 2501.05301](https://arxiv.org/abs/2501.05301).
 
