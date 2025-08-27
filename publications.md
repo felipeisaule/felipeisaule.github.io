@@ -18,10 +18,10 @@ You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-
 
 * H. Briongos-Merino, **F. Isaule**, B. Juliá-Díaz, and M. Guilleumas, _Dipolar optimal control of quantum states_. [arXiv: 2507.22822](https://arxiv.org/abs/2507.22822).
 * M. Volante-Abovich, **F. Isaule**, L. Morales-Molina, _Few-body bound states of bosonic mixtures in two-dimensional optical lattices_. [arXiv:2506.21385](https://arxiv.org/abs/2506.21385).
-* H. Briongos-Merino, **F. Isaule**, M. Guilleumas, and B. Juliá-Díaz, _Dipolar magnetostirring protocol for three-well atomtronic circuits_. [arXiv: 2501.05301](https://arxiv.org/abs/2501.05301).
 
 ### Publications
 
+* H. Briongos-Merino, **F. Isaule**, M. Guilleumas, and B. Juliá-Díaz, _Dipolar magnetostirring protocol for three-well atomtronic circuits_, SciPost Physics **19**, 059 (2025). [doi:10.21468/SciPostPhys.19.2.059](https://scipost.org/10.21468/SciPostPhys.19.2.059). [arXiv: 2501.05301](https://arxiv.org/abs/2501.05301).
 * **F. Isaule**, A. Rojo-Francàs, L. Morales-Molina, and B. Juliá-Díaz, _Counterflow of Lattice Polarons in Harmonically Confined Optical Lattices_, Physical Review Letters **135**, 023404 (2025). [doi: 10.1103/9ch1-dnvc](https://journals.aps.org/prl/abstract/10.1103/9ch1-dnvc). [arXiv:2502.09448](https://arxiv.org/abs/2502.09448).
 * L. Morales-Molina and **F. Isaule**, _Resonance detuning mechanism for directing particle flow in ring lattices_, Physical Review A **110**, 053313 (2024). [doi: 10.1103/PhysRevA.110.053313](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.053313).
 * **F. Isaule**, _Functional renormalisation group approach to the finite-temperature Bose polaron_,  Europhysics Letters **147**, 6500 (2024). [doi: 10.1209/0295-5075/ad763d](https://iopscience.iop.org/article/10.1209/0295-5075/ad763d). [arXiv:2402.04197](https://arxiv.org/abs/2402.04197).
