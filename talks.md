@@ -13,7 +13,7 @@ classes: wide
 
 ### Selected Talks at conferences and seminars
 
-
+* 25/11/2025, [_Ultracold polarons and impurities in one-dimensional optical lattices_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2025_Impurities_UB.pdf), at [HadNucAt - Universitat de Barcelona](https://sites.google.com/fqa.ub.edu/hadnucatub/home) Seminar, Barcelona (Spain).
 * 07/11/2025, [_Counterflow of impurities in harmonically confined optical lattices_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2025_Counterflow_QUOST.pdf), at [QUOST IX](https://sites.google.com/view/quost-ix), Valparaiso (Chile).
 * 25/07/2025, [_Ultracold polarons and impurities: from lattice polarons to effective field theories_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2025_Polarons_OIST.pdf), at [OIST](https://www.oist.jp/) Seminar, Okinawa (Japan).
 * 15/11/2024, [_Polarones de Bose en gases de átomos ultrafríos_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2024_BosePolaron_DFI.pdf), at Seminario [DFI - Universidad de Chile (UChile)](https://dfi.uchile.cl/), Santiago (Chile).
