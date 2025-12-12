@@ -16,7 +16,7 @@ I am a theoretical physicist from **Chile**. My detailed timeline is:
 * **Apr 2023 - present: Postdoctoral fellow** at [Instituto de Física, Pontificia Universidad Católica de Chile](https://fisica.uc.cl/) (Chile).<br>
     Sponsor: [Dr. Luis Morales-Molina](https://scholar.google.com/citations?hl=en&user=uPyaO_QAAAAJ&view_op=list_works&sortby=pubdate).
     Funded by [FONDECYT Postdoctorado No. 3230023](https://anid.cl/concursos/concurso-fondecyt-de-postdoctorado-2023/).
-* **Jul 2025 - Sep 2025 Visiting researcher** at [Quantum Systems Unit, Okinawa Institute of Science and Technology](https://www.oist.jp/research/research-units/qsu) (Japan)<br>
+* **Jul 2025 - Sep 2025: Visiting researcher** at [Quantum Systems Unit, Okinawa Institute of Science and Technology](https://www.oist.jp/research/research-units/qsu) (Japan)<br>
     PI: [Prof. Thomas Busch](https://www.oist.jp/research/research-units/qsu/thomas-busch).
 * **Jun 2021 - Mar 2023: Research associate** at [Quantum Theory Group, University of Glasgow](https://www.gla.ac.uk/schools/physics/research/groups/qtg/) (UK).<br>
     PI: [Dr. Jörg Götte](http://jbgoette.net).
