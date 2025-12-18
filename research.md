@@ -20,7 +20,7 @@ Some relevant publications:
 </div>
 
 * [Physical Review Letters **135**, 023404 (2025)](https://journals.aps.org/prl/abstract/10.1103/9ch1-dnvc).
-* [arXiv:2506.21385](https://arxiv.org/abs/2506.21385).
+* [Physical Review A **112**, 063315 (2025)](https://journals.aps.org/pra/abstract/10.1103/2y2n-1pkj).
 * [SciPost Physics Core **7**, 049 (2024)](https://scipost.org/SciPostPhysCore.7.3.049).
 * [Physical Review A **104**, 023317 (2021)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.023317).
 * [Physical Review A **103**, 013318 (2021)](https://link.aps.org/doi/10.1103/PhysRevA.103.013318).

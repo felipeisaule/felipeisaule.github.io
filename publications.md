@@ -20,7 +20,7 @@ You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-
 
 ### Publications
 
-* M. Volante-Abovich, **F. Isaule**, L. Morales-Molina, _Few-body bound states of bosonic mixtures in two-dimensional optical lattices_, Physical Review A **112**, 063315 (20259). [doi:10.1103/2y2n-1pkj](https://journals.aps.org/pra/abstract/10.1103/2y2n-1pkj). [arXiv: 2506.21385](https://arxiv.org/abs/2506.21385).
+* M. Volante-Abovich, **F. Isaule**, L. Morales-Molina, _Few-body bound states of bosonic mixtures in two-dimensional optical lattices_, Physical Review A **112**, 063315 (2025). [doi:10.1103/2y2n-1pkj](https://journals.aps.org/pra/abstract/10.1103/2y2n-1pkj). [arXiv: 2506.21385](https://arxiv.org/abs/2506.21385).
 * H. Briongos-Merino, **F. Isaule**, M. Guilleumas, and B. Juliá-Díaz, _Dipolar magnetostirring protocol for three-well atomtronic circuits_, SciPost Physics **19**, 059 (2025). [doi:10.21468/SciPostPhys.19.2.059](https://scipost.org/10.21468/SciPostPhys.19.2.059). [arXiv: 2501.05301](https://arxiv.org/abs/2501.05301).
 * **F. Isaule**, A. Rojo-Francàs, L. Morales-Molina, and B. Juliá-Díaz, _Counterflow of Lattice Polarons in Harmonically Confined Optical Lattices_, Physical Review Letters **135**, 023404 (2025). [doi: 10.1103/9ch1-dnvc](https://journals.aps.org/prl/abstract/10.1103/9ch1-dnvc). [arXiv:2502.09448](https://arxiv.org/abs/2502.09448).
 * L. Morales-Molina and **F. Isaule**, _Resonance detuning mechanism for directing particle flow in ring lattices_, Physical Review A **110**, 053313 (2024). [doi: 10.1103/PhysRevA.110.053313](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.053313).
