@@ -13,6 +13,7 @@ classes: wide
 
 ### Selected Talks at conferences and seminars
 
+* 21/01/2026, [_Dipolar atomtronics circuits: magnetostirring and quantum control_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2026_Atomtronics_USM.pdf), at Seminario [Grupo de Materia Condensada (SJ) - Universidad Técnica Federico Santa Maria](https://fisica.usm.cl/investigacion/fisica-de-materia-condensada/), Santiago (Chile).
 * 25/11/2025, [_Ultracold polarons and impurities in one-dimensional optical lattices_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2025_Impurities_UB.pdf), at [HadNucAt - Universitat de Barcelona](https://sites.google.com/fqa.ub.edu/hadnucatub/home) Seminar, Barcelona (Spain).
 * 07/11/2025, [_Counterflow of impurities in harmonically confined optical lattices_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2025_Counterflow_QUOST.pdf), at [QUOST IX](https://sites.google.com/view/quost-ix), Valparaiso (Chile).
 * 25/07/2025, [_Ultracold polarons and impurities: from lattice polarons to effective field theories_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/talks/2025_Polarons_OIST.pdf), at [OIST](https://www.oist.jp/) Seminar, Okinawa (Japan).
