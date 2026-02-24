@@ -33,6 +33,7 @@ classes: wide
 
 ### Posters
 
+* 23/02/2026, [_Counterflow of impurities in harmonically confined optical lattices_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2026_Counterflow_Impurity_Trieste.pdf), at [_Workshop on Impurity Problems in Quantum Mixtures: from Ultracold Gases to Electron Matter_](https://indico.ictp.it/event/11134), Trieste (Italy).
 * 12/01/2026, [_Dipolar magnetostirring protocol for three-well atomtronic circuits_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2026_Magnetostirring_Spintronics.pdf), at [_Spintronics Day 2026_](https://sites.google.com/view/sd2026/inicio), Santiago (Chile).
 * 9-16/12/2024, [_One-dimensional Bose Polarons across harmonically confined optical lattices_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2024_LatticePolaronHO_QOX.pdf), at [_Quantum Optics X_](https://www.miroptics.cl/quantum-optics-2024-chile/) and [3rd Workshop on Molecular Quantum Technology (MQT 2024)](https://mqt2024.org/), Puerto Varas (Chile).
 * 15/07/2024, [_Quench-induced dynamics of bound impurities in a one-dimensional Bose lattice gas_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2024_LatticeBoseBipolarons1D_ICAP.pdf), at [_The 28th International Conference on Atomic Physics (ICAP 2024)_](https://icap28.com/), London (UK).
