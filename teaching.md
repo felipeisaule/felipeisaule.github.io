@@ -13,6 +13,11 @@ classes: wide
 * [1ra Escuela Chilena de Átomos Ultrafríos](/docencia/EscuelaAtomosUltrafrios_25/)
 
 
+## Profesor de Cátedra (Universidad Adolfo Ibañez)
+
+*  [Física I FIS101 (2026-1)](/docencia/fis101_26_1/)
+
+
 ## Profesor de Cátedra (Pontificia Universidad Católica de Chile)
 
 *  [Termodinámica FIS1523 (2025-1)](/docencia/fis1523_25_1/)
