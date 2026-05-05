@@ -17,6 +17,7 @@ You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-
 ### Preprints
 
 
+* S. Carmona-López, A. Matos-Abiague, **F. Isaule**, and L. Morales-Molina, _Enhancing supercurrent-based inertial sensing via interactions in atomtronic angular accelerometers_. [arXiv: 2605.02048](https://arxiv.org/abs/2605.02048).
 * **F. Isaule**, A. Rojo-Francàs, D. T. Hoang, T. Fogarty, T. Busch, and B. Juliá-Díaz, _Mobile impurity interacting with a Hubbard chain and the role of Friedel oscillations_. [arXiv: 2602.06169](https://arxiv.org/abs/2602.06169).
 * H. Briongos-Merino, **F. Isaule**, B. Juliá-Díaz, and M. Guilleumas, _Dipolar optimal control of quantum states_. [arXiv: 2507.22822](https://arxiv.org/abs/2507.22822).
 
