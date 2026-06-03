@@ -18,11 +18,11 @@ You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-
 
 
 * S. Carmona-López, A. Matos-Abiague, **F. Isaule**, and L. Morales-Molina, _Enhancing supercurrent-based inertial sensing via interactions in atomtronic angular accelerometers_. [arXiv: 2605.02048](https://arxiv.org/abs/2605.02048).
-* **F. Isaule**, A. Rojo-Francàs, D. T. Hoang, T. Fogarty, T. Busch, and B. Juliá-Díaz, _Mobile impurity interacting with a Hubbard chain and the role of Friedel oscillations_. [arXiv: 2602.06169](https://arxiv.org/abs/2602.06169).
 * H. Briongos-Merino, **F. Isaule**, B. Juliá-Díaz, and M. Guilleumas, _Dipolar optimal control of quantum states_. [arXiv: 2507.22822](https://arxiv.org/abs/2507.22822).
 
 ### Publications
 
+* **F. Isaule**, A. Rojo-Francàs, D. T. Hoang, T. Fogarty, T. Busch, and B. Juliá-Díaz, _Mobile impurity interacting with a Hubbard chain and the role of Friedel oscillations_. [doi:10.1103/qdrb-44zn](https://journals.aps.org/prb/abstract/10.1103/qdrb-44zn). [arXiv: 2602.06169](https://arxiv.org/abs/2602.06169).
 * M. Volante-Abovich, **F. Isaule**, and L. Morales-Molina, _Few-body bound states of bosonic mixtures in two-dimensional optical lattices_, Physical Review A **112**, 063315 (2025). [doi:10.1103/2y2n-1pkj](https://journals.aps.org/pra/abstract/10.1103/2y2n-1pkj). [arXiv: 2506.21385](https://arxiv.org/abs/2506.21385).
 * H. Briongos-Merino, **F. Isaule**, M. Guilleumas, and B. Juliá-Díaz, _Dipolar magnetostirring protocol for three-well atomtronic circuits_, SciPost Physics **19**, 059 (2025). [doi:10.21468/SciPostPhys.19.2.059](https://scipost.org/10.21468/SciPostPhys.19.2.059). [arXiv: 2501.05301](https://arxiv.org/abs/2501.05301).
 * **F. Isaule**, A. Rojo-Francàs, L. Morales-Molina, and B. Juliá-Díaz, _Counterflow of Lattice Polarons in Harmonically Confined Optical Lattices_, Physical Review Letters **135**, 023404 (2025). [doi: 10.1103/9ch1-dnvc](https://journals.aps.org/prl/abstract/10.1103/9ch1-dnvc). [arXiv:2502.09448](https://arxiv.org/abs/2502.09448).
