@@ -42,3 +42,7 @@ classes: wide
 * 13/09/2021, [_Renormalisation-group study of Bose Polarons_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2021_BosePolarons_BEC21.pdf), at [_BEC2021 Conference_](https://bec2021.org/), Online/Sant Feliu (Spain).
 * 15/07/2024, [_From linear to hydrodynamic fluctuations_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2018_AP_ERG2018.pdf), at [_ERG2018 Conference_](https://erg2018.sciencesconf.org), Paris (France).
 * 26-27/12/2014, [_Structure and cooling of neutron stars: nuclear pairing and superfluid effects_](https://raw.githubusercontent.com/felipeisaule/felipeisaule.github.io/main/files/posters/2014_NStars_SimposioCL.pdf), at [_XIX Chilean Physics Symposium_](https://fisica.udec.cl/es/xix-simposio-chileno-de-fisica-2014-26-28-noviembre/), Concepción (Chile).
+
+
+## Lectures
+* 6-7/07/2026, [_Functional renormalisation group for quantum many-body systems_](/talks/FRGmanybody/), at [_ICCUB_](https://icc.ub.edu/event/crash-course-functional-renormalisation-group-quantum-many-body-systems), Barcelona (Spain). 
