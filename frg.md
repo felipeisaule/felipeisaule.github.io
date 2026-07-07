@@ -4,8 +4,7 @@
 
 layout: single
 author_profile: true
-title: Functional renormalisation group for
-quantum many-body systems
+title: Functional renormalisation group for quantum many-body systems
 permalink: /talks/FRGmanybody/
 classes: wide
 ---
