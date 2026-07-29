@@ -18,10 +18,10 @@ You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-
 
 
 * S. Carmona-López, A. Matos-Abiague, **F. Isaule**, and L. Morales-Molina, _Enhancing supercurrent-based inertial sensing via interactions in atomtronic angular accelerometers_. [arXiv: 2605.02048](https://arxiv.org/abs/2605.02048).
-* H. Briongos-Merino, **F. Isaule**, B. Juliá-Díaz, and M. Guilleumas, _Dipolar optimal control of quantum states_. [arXiv: 2507.22822](https://arxiv.org/abs/2507.22822).
 
 ### Publications
 
+* H. Briongos-Merino, **F. Isaule**, B. Juliá-Díaz, and M. Guilleumas, _Dipolar optimal control of entangled current states_, Physical Review Research **8**, 033121 (2026).  [doi:10.1103/yt2c-1qh7](https://journals.aps.org/prresearch/abstract/10.1103/yt2c-1qh7). [arXiv: 2507.22822](https://arxiv.org/abs/2507.22822).
 * **F. Isaule**, A. Rojo-Francàs, D. T. Hoang, T. Fogarty, T. Busch, and B. Juliá-Díaz, _Mobile impurity interacting with a Hubbard chain and the role of Friedel oscillations_, Physical Review B **113**, 224303 (2026). [doi:10.1103/qdrb-44zn](https://journals.aps.org/prb/abstract/10.1103/qdrb-44zn). [arXiv: 2602.06169](https://arxiv.org/abs/2602.06169).
 * M. Volante-Abovich, **F. Isaule**, and L. Morales-Molina, _Few-body bound states of bosonic mixtures in two-dimensional optical lattices_, Physical Review A **112**, 063315 (2025). [doi:10.1103/2y2n-1pkj](https://journals.aps.org/pra/abstract/10.1103/2y2n-1pkj). [arXiv: 2506.21385](https://arxiv.org/abs/2506.21385).
 * H. Briongos-Merino, **F. Isaule**, M. Guilleumas, and B. Juliá-Díaz, _Dipolar magnetostirring protocol for three-well atomtronic circuits_, SciPost Physics **19**, 059 (2025). [doi:10.21468/SciPostPhys.19.2.059](https://scipost.org/10.21468/SciPostPhys.19.2.059). [arXiv: 2501.05301](https://arxiv.org/abs/2501.05301).
