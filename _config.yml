@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Dr. Felipe Isaule"
   avatar           : "/assets/images/foto2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral Fellow<br>Pontificia Universidad Católica de Chile"
+  bio              : "Research Scientist<br>Universidad Técnica Federico Santa María"
   location         : "Santiago, Chile"
   links:
     - label: "Email"
@@ -108,10 +108,10 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/felipeisaule"
-    - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky-square"
-      url: "https://web-cdn.bsky.app/profile/felipeisaule.bsky.social"
+#      url: "https://twitter.com/felipeisaule"
+#    - label: "Bluesky"
+#      icon: "fab fa-fw fa-bluesky-square"
+#      url: "https://web-cdn.bsky.app/profile/felipeisaule.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -127,7 +127,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/felipeisaule"
+#      url: "https://twitter.com/felipeisaule"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:

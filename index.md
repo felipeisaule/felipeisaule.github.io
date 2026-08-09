@@ -14,7 +14,8 @@ classes: wide
 
 ## Contact
 
-Instituto de Física<br>
-Pontificia Universidad Católica de Chile<br>
+Departamento de Física<br>
+Universidad Técnica Federico Santa María<br>
+Campus San Joaquín<br>
 Santiago<br>
 Chile<br>

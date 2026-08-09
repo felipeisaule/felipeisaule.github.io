@@ -13,7 +13,10 @@ I am a theoretical physicist from **Chile**. My detailed timeline is:
 
 ### Academic experience and education
 
-* **Apr 2023 - present: Postdoctoral fellow** at [Instituto de Física, Pontificia Universidad Católica de Chile](https://fisica.uc.cl/) (Chile).<br>
+* **Aug 2026 - present: Research Scientist (Investigador Adjunto)** at [Departamento de Física, Universidad Técnica Federico Santa María](https://fisica.usm.cl/) (Chile).
+* **Jul 2026: Visiting Scholar** at [ICCUB](http://icc.ub.edu/) (Spain).
+    Funded by the [Catalonia Quantum Academy](https://cataloniaquantum.eu/cqa-calls/visiting-scholars-awards/).
+* **Apr 2023 - Apr 2026: Postdoctoral fellow** at [Instituto de Física, Pontificia Universidad Católica de Chile](https://fisica.uc.cl/) (Chile).<br>
     Sponsor: [Dr. Luis Morales-Molina](https://scholar.google.com/citations?hl=en&user=uPyaO_QAAAAJ&view_op=list_works&sortby=pubdate).
     Funded by [FONDECYT Postdoctorado No. 3230023](https://anid.cl/concursos/concurso-fondecyt-de-postdoctorado-2023/).
 * **Jul 2025 - Sep 2025: Visiting researcher** at [Quantum Systems Unit, Okinawa Institute of Science and Technology](https://www.oist.jp/research/research-units/qsu) (Japan)<br>
