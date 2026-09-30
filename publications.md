@@ -16,7 +16,7 @@ You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-
 
 ### Preprints
 
-* S. Henríquez Lira, **F. Isaule**, M. HvE Groves, F. J. Peña, P. Vargas, T. Fogarty, _Quantum Statistical Thermal Engine at the BCS-BEC crossover_.[arXiv: 2609.3759](https://arxiv.org/abs/2609.3759).
+* S. Henríquez Lira, **F. Isaule**, M. HvE Groves, F. J. Peña, P. Vargas, T. Fogarty, _Quantum Statistical Thermal Engine at the BCS-BEC crossover_. [arXiv: 2609.37592](https://arxiv.org/abs/2609.37592).
 
 ### Publications
 
