@@ -14,6 +14,10 @@ classes: wide
 You can also see my publications on my [Orcid](https://orcid.org/0000-0003-1810-0707), [gScholar](https://scholar.google.com/citations?user=b-MCzAsAAAAJ&hl=en&oi=ao) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57190371396) profiles.
 
 
+### Preprints
+
+* S. Henríquez Lira, **F. Isaule**, M. HvE Groves, F. J. Peña, P. Vargas, T. Fogarty, _Quantum Statistical Thermal Engine at the BCS-BEC crossover_.[arXiv: 2609.3759](https://arxiv.org/abs/2609.3759).
+
 ### Publications
 
 * S. Carmona-López, A. Matos-Abiague, **F. Isaule**, and L. Morales-Molina, _Enhancing supercurrent-based inertial sensing via interactions in atomtronic angular accelerometers_, Physical Review Research **8**, 033316 (2026).  [doi:10.1103/zzx2-tttb](https://journals.aps.org/prresearch/abstract/10.1103/zzx2-tttb). [arXiv: 2605.02048](https://arxiv.org/abs/2605.02048).
